@@ -389,7 +389,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="4.9s" fill="freeze"/>
         <text x="24" y="310" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#7C3AED">▸</text>
         <text x="42" y="310" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748B">Portfolio</text>
-        <text x="152" y="310" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#22D3EE">github.com/semikzr</text>
+        <text x="152" y="310" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#22D3EE">github.com/Semi-2005</text>
       </g>
 
       <!-- Email -->
@@ -397,7 +397,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="5.2s" fill="freeze"/>
         <text x="24" y="336" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#7C3AED">▸</text>
         <text x="42" y="336" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748B">Email</text>
-        <text x="152" y="336" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#22D3EE">semi@example.com</text>
+        <text x="152" y="336" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#22D3EE">kazarsemi0@gmail.com</text>
       </g>
 
       <!-- ===== SKILLS SECTION ===== -->
