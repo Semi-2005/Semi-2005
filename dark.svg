@@ -381,7 +381,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="4.6s" fill="freeze"/>
         <text x="24" y="284" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#7C3AED">▸</text>
         <text x="42" y="284" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748B">Focus</text>
-        <text x="152" y="284" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E2E8F0">Obeject Oriented Analysis and Design Project</text>
+        <text x="152" y="284" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E2E8F0">Teknofest Otonom Robotaksi</text>
       </g>
 
       <!-- Portfolio -->
